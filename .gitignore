@@ -1,2 +1,9 @@
-.obsidian/
+
 .DS_Store
+# 忽略 Obsidian 插件配置和敏感信息
+.obsidian/
+# 忽略 Copilot 的聊天记录文件夹
+Copilot/
+# 忽略所有插件生成的配置文件
+*.json
+*.log
